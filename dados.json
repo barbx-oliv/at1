@@ -1,0 +1,16 @@
+{
+    "personagens": [
+        {
+    "nome": "Yanfei",
+    "constelacao":  4,
+    "tipo": "pyro",
+    "combate": "catalizador"
+    }
+    ],
+    "player": [
+        {
+        "nome": "ba",
+        "nickname": "yoyo",
+        "ar": 64
+    }]
+}
